@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>webapp-javaee6-embedded-glassfish-archetype</name>
+      <prefix>webapp-javaee6-embedded-glassfish-archetype</prefix>
+      <artifactId>webapp-javaee6-embedded-glassfish-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
