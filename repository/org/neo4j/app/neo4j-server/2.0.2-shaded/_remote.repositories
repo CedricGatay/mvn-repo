@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 15 17:33:03 CEST 2014
+neo4j-server-2.0.2-shaded-tests.jar>=
+neo4j-server-2.0.2-shaded-sources.jar>=
+neo4j-server-2.0.2-shaded.jar>=
+neo4j-server-2.0.2-shaded-static-web.jar>=
+neo4j-server-2.0.2-shaded-test-sources.jar>=
+neo4j-server-2.0.2-shaded.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 15 17:25:22 CEST 2014
+neo4j-udc-2.0.2-shaded-tests.jar>=
+neo4j-udc-2.0.2-shaded-neo4j.jar>=
+neo4j-udc-2.0.2-shaded.jar>=
+neo4j-udc-2.0.2-shaded.pom>=

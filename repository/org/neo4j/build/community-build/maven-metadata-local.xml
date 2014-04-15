@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.neo4j.build</groupId>
+  <artifactId>community-build</artifactId>
+  <versioning>
+    <release>2.0.2-shaded</release>
+    <versions>
+      <version>2.0.2-shaded</version>
+    </versions>
+    <lastUpdated>20140415153304</lastUpdated>
+  </versioning>
+</metadata>
